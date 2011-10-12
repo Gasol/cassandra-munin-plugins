@@ -1,7 +1,7 @@
 Cassandra Munin Plugins
 =======================
 
-These plugins are configurations for something called jmxquery that I found somewhere. Unfortunately, though, I forget where.
+These plugins are configurations for [jmxquery](http://code.google.com/p/jmxquery).
 
 ## Installation
 
